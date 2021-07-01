@@ -16,7 +16,7 @@ Because we need the coverage of each indivudal test case (=test function, in PyT
 - Identify all the test functions, and
 - Execute each of the test functions individually, while recording coverage
 
-Fill in `colelct_tc_coverage.py` to achieve Task 1. Use the `mid.py` under `examples` directory as an example.
+Fill in `collect_tc_coverage.py` to achieve Task 1. Use the `mid.py` under `examples` directory as an example.
 
 ## Task 2: Generate test case execution sequence using greedy prioritisation
 
